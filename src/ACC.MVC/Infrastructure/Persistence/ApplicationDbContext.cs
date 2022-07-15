@@ -67,7 +67,7 @@ namespace ACC.MVC.Infrastructure.Persistence
             var rolVisitor = new Role()
             {
                 Id = 2,
-                Name = "Vendedor",
+                Name = "Visitor",
             };
 
             var roles = new List<object>()
